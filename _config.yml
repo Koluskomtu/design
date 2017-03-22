@@ -5,7 +5,7 @@ location: "Maine, USA"
 email: your-email@example.com
 baseurl: "/material-theme"
 
-url: "http://johngodesign.com" # replace by your site's url
+url: "" # replace by your site's url
 twitter_username: your-name
 github_username:  koluskomtu
 author: "John LaFosse"
